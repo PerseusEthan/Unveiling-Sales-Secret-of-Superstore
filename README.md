@@ -1,4 +1,5 @@
 # Unveiling-Sales-Secret-of-Superstore
+An analysis of a superstore, using a superstore dataset from Kaggle.
 ## Data Source
 The data set was taken from Kaggle - https://www.kaggle.com/datasets/adamgrey88/megastore-sales-data
 ## Report Link
